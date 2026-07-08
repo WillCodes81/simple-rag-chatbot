@@ -1,0 +1,5 @@
+rag_api/.env
+rag_api/.venv/
+rag_api/tmp/
+__pycache__/
+*.pyc
