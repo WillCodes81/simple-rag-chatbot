@@ -3,3 +3,4 @@ rag_api/.venv/
 rag_api/tmp/
 __pycache__/
 *.pyc
+rag_api/test.pdf
